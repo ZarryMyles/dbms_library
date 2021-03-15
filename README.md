@@ -1,5 +1,5 @@
 # dbms_library
-A Library management web-app made with React Js and MongoDB
+A Library management web-app made with React Js, with stock images from https://undraw.co
 
 ## Installation
 In the directory, run "npm start"
